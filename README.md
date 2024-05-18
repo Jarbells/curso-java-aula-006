@@ -1,0 +1,1 @@
+Exercício de Estrutura Sequencial 05.
